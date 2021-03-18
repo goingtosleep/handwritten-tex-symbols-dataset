@@ -9,5 +9,7 @@ I also did some processing for model training (convert to `float32`, add channel
 
 ## Details
 Number of instances: 210454 (raw) / 195244 (processed).
+
 Image size: 32x32.
+
 Number of classes: 1098 (raw), / 500 (processed).
