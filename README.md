@@ -6,3 +6,8 @@ The original data is provided in SQL form. I have converted each record into a n
 I also did some processing for model training (convert to `float32`, add channel dimension, normalization, limit number of classes to 500) and uploaded [here](https://drive.google.com/file/d/1PNA95QKiyhWkfntP4BtpEsDVvktY0Fr7/view?usp=sharing).
 
 ![Sample](Figure_1.png)
+
+## Details
+Number of instances: 210454 (raw) / 195244 (processed).
+Image size: 32x32.
+Number of classes: 1098 (raw), / 500 (processed).
